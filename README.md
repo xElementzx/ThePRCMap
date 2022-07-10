@@ -1,21 +1,12 @@
-# RDOMap ([website](https://jeanropke.github.io/RDOMap/))
-[![Discord](https://img.shields.io/discord/631510938016677889?label=discord)](https://discord.gg/HkU6ugT) [![Crowdin](https://badges.crowdin.net/rdr2collectorsmap/localized.svg)](https://translate.rdo.gg/) [![GitHub](https://img.shields.io/github/license/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/blob/master/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) [![GitHub last commit](https://img.shields.io/github/last-commit/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/commits/master) [![GitHub issues](https://img.shields.io/github/issues-raw/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/issues) [![GitHub repo size](https://img.shields.io/github/repo-size/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap)
+# ThePRCMap ([website](https://elementz.me/ThePRCMap/))
+[![Discord](https://img.shields.io/discord/320174395387805696?label=discord)](https://discord.gg/xCRbuxuSgt) [![GitHub](https://img.shields.io/github/license/xElementzx/ThePRCMap)](https://github.com/xElementzx/ThePRCMap/blob/main/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/xElementzx/ThePRCMap)](https://github.com/xElementzx/ThePRCMap/blob/main/CONTRIBUTORS.md) [![GitHub last commit](https://img.shields.io/github/last-commit/xElementzx/ThePRCMap)](https://github.com/xElementzx/ThePRCMap/commits/main) [![GitHub issues](https://img.shields.io/github/issues-raw/xElementzx/ThePRCMap)](https://github.com/xElementzx/ThePRCMap/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/xElementzx/ThePRCMap)](https://github.com/xElementzx/ThePRCMap/issues) [![GitHub repo size](https://img.shields.io/github/repo-size/xElementzx/ThePRCMap)](https://github.com/jxElementzx/ThePRCMap)
 
 
-[Join our Discord](https://discord.gg/HkU6ugT) to report issues for specific collectables, collaborate with other contributors, ask questions about the map, and talk with translators.
+[Join ThePRC Discord](https://discord.gg/xCRbuxuSgt)
 
-Savvy with a language that the language doesn't have yet? See something that isn't quite translated correctly? Feel free to contribute to the translation of any language by heading over to the [Crowdin project page](https://translate.rdo.gg/) for the map.
+Thanks to [jeanropke](https://github.com/jeanropke/RDOMap/) for the original map!
 
-Also see our other map for Red Dead Online collector content, for all of the collector role's item locations:
-- https://jeanropke.github.io/RDR2CollectorsMap
-- https://github.com/jeanropke/RDR2CollectorsMap
-
-Donations are always appreciated. Find the donations link at the bottom of the menu.
-
-## [Map Contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md)
+## [Map Contributors](https://github.com/xElementzx/ThePRCMap/blob/main/CONTRIBUTORS.md)
 Lots of thanks to the community for contributing to the menu either by providing locations or working on developing the menu into something great.
 
-[A full list of contributors can be found here.](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md)
-
-## Map Tiles
-[Download Webp](https://map-tiles.b-cdn.net/files/rdr3%20tiles%20-%20webp.zip) | [Download Jpg](https://map-tiles.b-cdn.net/files/rdr3%20tiles%20-%20jpg.zip)
+[A full list of contributors can be found here.](https://github.com/xElementzx/ThePRCMap/blob/main/CONTRIBUTORS.md)
