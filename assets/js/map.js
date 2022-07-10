@@ -114,7 +114,7 @@ const MapBase = {
     MapBase.map.addControl(
       L.control.attribution({
         position: 'bottomright',
-        prefix: '<a target="_blank" href="/CONTRIBUTORS.md" data-text="map.attribution_prefix">PRC Map Contributors</a>',
+        prefix: '<a target="_blank" href="https://github.com/xElementzx/ThePRCMap/blob/main/CONTRIBUTORS.md" data-text="map.attribution_prefix">PRC Map Contributors</a>',
       })
     );
 
