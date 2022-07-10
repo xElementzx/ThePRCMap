@@ -14,8 +14,8 @@ These are the people that worked on improving the map itself.
 ## Location credits
 These are the people that provided the locations of the different items on the map.
 
-- Plant Locations by [xElementzx](https://github.com/xElementzx), YayForShan and Beault).
-- Shop Locations by [xElementzx](https://github.com/xElementzx) and YayForShan).
+- Plant Locations by [xElementzx](https://github.com/xElementzx), YayForShan and Beault.
+- Shop Locations by [xElementzx](https://github.com/xElementzx) and YayForShan.
 
 ## Assets credits
 These are the people that provided assets for the map.
