@@ -1,0 +1,138 @@
+[
+  {
+    "color": "black",
+    "key": "barber",
+    "locations": [
+      {"text": "shop_blk_barber", "x": -84.7851, "y": 98.6281},
+      {"text": "shop_sdn_barber", "x": -81.9138, "y": 152.5173},
+      {"text": "shop_val_barber", "x": -50.9947, "y": 106.507}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "butcher",
+    "locations": [
+      {"text": "shop_blk_butcher", "x": -83.5389, "y": 99.602},
+      {"text": "shop_rho_butcher", "x": -83.4288, "y": 131.4299},
+      {"text": "shop_sdn_butcher", "x": -84.2624, "y": 155.0488},
+      {"text": "shop_str_butcher", "x": -69.7065, "y": 84.1},
+      {"text": "shop_tbl_butcher", "x": -109.3269, "y": 25.7909},
+      {"text": "shop_val_butcher", "x": -51.7067, "y": 106.0184}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "doctor",
+    "locations": [
+      {"text": "shop_sdn_doctor", "x": -82.7154, "y": 153.5226},
+      {"text": "shop_str_doctor", "x": -70.2969, "y": 83.2422},
+      {"text": "shop_tum_doctor", "x": -109.5508, "y": 25.8594},
+      {"text": "shop_val_doctor", "x": -51.1196, "y": 106.8218}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "outlaw_post",
+    "locations": [
+      {"text": "shop_van_fence", "x": -54.8719, "y": 158.2492},
+      {"text": "shop_thl_fence", "x": -99.5624, "y": 89.5357}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "general_store",
+    "locations": [
+      {"text": "shop_amd_general_store", "x": -104.315, "y": 54.0631},
+      {"text": "shop_blk_general_store", "x": -84.1215, "y": 99.1149},
+      {"text": "shop_rho_general_store", "x": -83.6887, "y": 131.9255},
+      {"text": "shop_sdn_general_store", "x": -84.0779, "y": 155.13},
+      {"text": "shop_str_general_store", "x": -69.6263, "y": 83.5089},
+      {"text": "shop_tbl_general_store", "x": -109.1998, "y": 26.1486},
+      {"text": "shop_val_general_store", "x": -51.1262, "y": 106.2615},
+      {"text": "shop_van_trading_post", "x": -54.8719, "y": 158.2492},
+      {"text": "shop_emr_trading_post", "x": -57.707, "y": 133.3242},
+      {"text": "shop_wal_general_store", "x": -57.4932, "y": 91.0859}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "gunsmith",
+    "locations": [
+      {"text": "shop_asb_gunsmith", "x": -43.1219, "y": 157.0465},
+      {"text": "shop_rho_gunsmith", "x": -84.1323, "y": 131.8113},
+      {"text": "shop_sdn_gunsmith", "x": -83.5753, "y": 153.4529},
+      {"text": "shop_tbl_gunsmith", "x": -109.5996, "y": 25.828},
+      {"text": "shop_val_gunsmith", "x": -51.509, "y": 106.9164}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "post_office",
+    "locations": [
+      {"text": "shop_amd_post_office", "x": -103.9225, "y": 53.36},
+      {"text": "shop_asb_post_office", "x": -43.6248, "y": 156.9046},
+      {"text": "shop_ben_post_office", "x": -117.441, "y": 30.1614},
+      {"text": "shop_blk_post_office", "x": -84.1992, "y": 97.7092},
+      {"text": "shop_emr_post_office", "x": -56.7534, "y": 134.9101},
+      {"text": "shop_rgg_post_office", "x": -72.5347, "y": 94.3286},
+      {"text": "shop_rho_post_office", "x": -83.6995, "y": 130.328},
+      {"text": "shop_sdn_post_office", "x": -85.3004, "y": 153.9512},
+      {"text": "shop_str_post_office", "x": -69.577, "y": 83.914},
+      {"text": "shop_val_post_office", "x": -53.8518, "y": 108.5275},
+      {"text": "shop_van_post_office", "x": -54.7517, "y": 157.6365},
+      {"text": "shop_wal_post_office", "x": -57.3786, "y": 91.117}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "algernon_wasp",
+    "locations": [
+      {"text": "shop_algernon_wasp", "x": -79.2891, "y": 151.4453}
+      ]
+  },
+  {
+    "color": "black",
+    "key": "stable",
+    "locations": [
+      {"text": "shop_arm_horse_shop", "x": -103.4609, "y": 53.6875},
+      {"text": "shop_amb_horse_shop", "x": -36.7969, "y": 104.8906},
+      {"text": "shop_ben_horse_shop", "x": -117.9922, "y": 30.2422},
+      {"text": "shop_bra_horse_shop", "x": -29.3594, "y": 158.1875},
+      {"text": "shop_blk_horse_shop", "x": -84.8035, "y": 97.8134},
+      {"text": "shop_sdn_horse_shop", "x": -86.0986, "y": 150.2184},
+      {"text": "shop_emr_horse_shop", "x": -59.3047, "y": 133.1719},
+      {"text": "shop_thv_horse_shop", "x": -97.6289, "y": 89.3086},
+      {"text": "shop_col_horse_shop", "x": -26.3047, "y": 90.4453},
+      {"text": "shop_col2_horse_shop", "x": -22.0938, "y": 102.9883},
+      {"text": "shop_pro_horse_shop", "x": -57.625, "y": 71.6563},
+      {"text": "shop_cum_horse_shop", "x": -58.3516, "y": 97.9766},
+      {"text": "shop_han_horse_shop", "x": -52.25, "y": 76.8438},
+      {"text": "shop_mac_horse_shop", "x": -100.3086, "y": 73.9766},
+      {"text": "shop_rho_horse_shop", "x": -84.8086, "y": 133.4961},
+      {"text": "shop_str_horse_shop", "x": -72.3542, "y": 83.0894},
+      {"text": "shop_tbl_horse_shop", "x": -110.8427, "y": 25.5937},
+      {"text": "shop_val_horse_shop", "x": -51.3717, "y": 105.5549},
+      {"text": "shop_van_horse_shop", "x": -51.2464, "y": 157.2936},
+      {"text": "shop_wap_horse_shop", "x": -28.9844, "y": 118.5078},
+      {"text": "shop_scm_horse_shop", "x": -66.5982, "y": 130.0545}
+    ]
+  },
+  {
+    "color": "black",
+    "key": "tackle",
+    "locations": [
+      {"text": "shop_lag_bait_store", "x": -73.2059, "y": 144.8683},
+      {"text": "shop_quak_bait_store", "x": -93.7266, "y": 92.6563}
+      ]
+  },
+  {
+    "color": "black",
+    "key": "tailor",
+    "locations": [
+      {"text": "shop_blk_tailor", "x": -83.675, "y": 99.4618},
+      {"text": "shop_str_tailor", "x": -69.5801, "y": 83.4277},
+      {"text": "shop_val_tailor", "x": -51.1445, "y": 106.2656},
+      {"text": "shop_sdn_tailor", "x": -81.7125, "y": 150.947}
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "color": "green",
+    "key": "alaskan_ginseng",
+    "name": "Alaskan Ginseng",
+    "amount": 15,
+    "description": "2 Used in Small Tonic (Hummingbird Sage)<br>4 Used in Medium Tonic (Hummingbird Sage)",
+    "locations": [
+      {"x": -76.4765625, "y": 83.0703125}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "american_ginseng",
+    "name": "American Ginseng",
+    "amount": 15,
+    "description": "2 Used in Small Tonic (Desert Sage)<br>4 Used in Medium Tonic (Desert Sage)",
+    "locations": [
+      {"x": -64.953125, "y": 143.15625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "bay_bolete",
+    "name": "Bay Bolete",
+    "amount": 15,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -87.65625, "y": 77.0625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "black_berry",
+    "name": "Black Berry",
+    "amount": 15,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -70.7421875, "y": 94.6640625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "burdock_root",
+    "name": "Burdock Root",
+    "amount": 5,
+    "description": "6 Used in Large Tonic (Golden Currant)",
+    "locations": [
+      {"x": -70.28125, "y": 111.1640625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "desert_sage",
+    "name": "Desert Sage",
+    "amount": 15,
+    "description": "2 Used in Small Tonic (Hummingbird Sage)<br>4 Used in Medium Tonic (Desert Sage)",
+    "locations": [
+      {"x": -123.9844, "y": 32}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "golden_currant",
+    "name": "Golden Currant",
+    "amount": 15,
+    "description": "6 Used in Large Tonic (Golden Currant)",
+    "locations": [
+      {"x": -37.6171875, "y": 158.015625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "hummingbird_sage",
+    "name": "Hummingbird Sage",
+    "amount": 15,
+    "description": "2 Used in Small Tonic (Hummingbird Sage)<br>4 Used in Medium Tonic (Hummingbird Sage)",
+    "locations": [
+      {"x": -60.953125, "y": 145.265625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "indian_tobacco",
+    "name": "Indian Tobacco",
+    "amount": 10,
+    "description": "2 Used in Small Tonic (Hummingbird Sage)<br>4 Used in Medium Tonic (Hummingbird Sage)",
+    "locations": [
+      {"x": -45.234375, "y": 114.765625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "oleander_sage",
+    "name": "Oleander Sage",
+    "amount": 15,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": 0, "y": 0}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "blood_flower",
+    "name": "Blood Flower",
+    "amount": 15,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -107.7813, "y": 59.8438}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "red_raspberry",
+    "name": "Red Raspberry",
+    "amount": 10,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -30.265625, "y": 118.3125}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "violet_snowdrop",
+    "name": "Violet Snowdrop",
+    "amount": 5,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -37.15625, "y": 142.21875}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "yarrow",
+    "name": "Yarrow",
+    "amount": 10,
+    "description": "6 Used in Large Tonic (Golden Currant)",
+    "locations": [
+      {"x": -90.4921875, "y": 133.921875}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "prairie_poppy",
+    "name": "Prairie Poppy",
+    "amount": 5,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -90.4296875, "y": 96.6796875}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "texas_blue_bonnet",
+    "name": "Texas Blue Bonnet",
+    "amount": 5,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -107.4219, "y": 27.5625}
+    ]
+  }
+]
