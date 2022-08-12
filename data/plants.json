@@ -106,7 +106,7 @@
     "amount": 15,
     "description": "Sell to Algernon Wasp in Saint Denis",
     "locations": [
-      {"x": -107.7813, "y": 59.8438}
+      {"x": -109.046875, "y": 59.8438}
     ]
   },
   {
@@ -151,9 +151,59 @@
   },
   {
     "color": "green",
+    "key": "chocolate_daisy",
+    "name": "Chocolate Daisy",
+    "amount": 5,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -86.59375, "y": 89.53125}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "english_mace",
+    "name": "English Mace",
+    "amount": 10,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -97.2109375, "y": 76.1015625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "wild_rhubarb",
+    "name": "Wild Rhubarb",
+    "amount": 10,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -96.796875, "y": 62.765625}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "agarita",
+    "name": "Agarita",
+    "amount": 15,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -114.390625, "y": 24.328125}
+    ]
+  },
+  {
+    "color": "green",
+    "key": "bitterweed",
+    "name": "Bitterweed",
+    "amount": 15,
+    "description": "Sell to Algernon Wasp in Saint Denis",
+    "locations": [
+      {"x": -105.6328125, "y": 81.0625}
+    ]
+  },
+  {
+    "color": "green",
     "key": "texas_blue_bonnet",
     "name": "Texas Blue Bonnet",
-    "amount": 5,
+    "amount": 20,
     "description": "Sell to Algernon Wasp in Saint Denis",
     "locations": [
       {"x": -107.4219, "y": 27.5625}
