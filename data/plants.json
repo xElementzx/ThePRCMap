@@ -203,7 +203,7 @@
     "color": "green",
     "key": "texas_blue_bonnet",
     "name": "Texas Blue Bonnet",
-    "amount": 20,
+    "amount": 10,
     "description": "Sell to Algernon Wasp in Saint Denis",
     "locations": [
       {"x": -107.4219, "y": 27.5625}
